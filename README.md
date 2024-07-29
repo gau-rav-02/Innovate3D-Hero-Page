@@ -5,7 +5,7 @@ A dynamic 3D heropage for main project "Innovate3D - a social media site for 3d 
 # Disclaimer**
 Main project "Innovate3D" is on another repo,
 
-- [Innovate3D](https://github.com/prasadcode58/Innovate3D)
+- [Innovate3D](https://github.com/gau-rav-02/Innovate3D)
 
 # Pre - requisites
 
